@@ -1,2 +1,2 @@
-# CS362-F2019
+# Anthony Liestyo, liestyoa
 OSU CS362 Software Engineering II Fall 2019
